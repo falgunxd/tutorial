@@ -4,3 +4,4 @@ this is the third line of the notepad
 
 
 this is the new feature
+this is the fourth line of the notepad
